@@ -14,14 +14,14 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HighCPU", ".", "{E68D1D39-4
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_64204"
-		Release.AspNetCompiler.PhysicalPath = "..\HighCPU\"
+		Release.AspNetCompiler.PhysicalPath = "."
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64204\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64204"
-		SlnRelativePath = "..\HighCPU\"
+		SlnRelativePath = "."
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
